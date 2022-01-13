@@ -10,3 +10,13 @@ The following project involves using the ETL process to extract movie data from 
 - Wikipedia
 - Kaggle
 - MovieLens
+## Results
+The following queries highlight that our ETL pipeline successfully loaded the data into their respective tables:
+
+<p align="center">
+  <img src = "queries/movies_query.png" width = 175>
+</p>
+
+<p align="center">
+  <img src = "queries/ratings_query.png" width = 175>
+</p>
